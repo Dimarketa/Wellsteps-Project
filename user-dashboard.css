@@ -1,0 +1,14 @@
+#dash-container {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  width: 100%;
+}
+#side-bar {
+  background-color: #092f5b;
+  color: white;
+}
+
+#side-bar > a {
+  background-color: #092f5b;
+  color: white;
+}
